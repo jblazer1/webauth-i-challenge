@@ -1,0 +1,17 @@
+{
+  "name": "webauth-i-challenge",
+  "version": "1.0.0",
+  "description": "write code for webauth",
+  "main": "index.js",
+  "repository": "https://github.com/jblazer1/webauth-i-challenge.git",
+  "author": "JamesB <jblazer1@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.18.4",
+    "node": "^12.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
